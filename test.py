@@ -1,0 +1,2 @@
+print("shivam")
+print("nahar")
